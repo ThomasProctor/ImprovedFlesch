@@ -2,6 +2,8 @@
 
 This intends to improve on the Flesch-Kincaid reading level scoring system by replacing the syllables per word with an equation based on word frequency in an English corpus.
 
+Very much a work in progress.
+
 ### Todo:
 
 * Plot out frequency - syllables finding.
