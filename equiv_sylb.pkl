@@ -1,4 +1,0 @@
-c__main__
-equiv_sylb
-p0
-.
