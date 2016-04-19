@@ -40,7 +40,7 @@ For example, "rebirth" is much less common and harder to understand than
 "birth", but both would count as the same word.
 
 Unfortunately, this whole task migh be pointless.
-The [link](http://www.npr.org/2016/03/31/472500987/how-to-make-tax-forms-easier-break-the-math-up-one-step-per-line "IRS thinks that syllables are actually the most important part of reading level.")
+The [IRS thinks that syllables are actually the most important part of reading level.](http://www.npr.org/2016/03/31/472500987/how-to-make-tax-forms-easier-break-the-math-up-one-step-per-line "NPR interview with Bob Erickson")
 They take it so seriously that they replace long word combination with acronyms.
 Even if people are not familiar with the acronym and have to look it up, it is
 they think it is still easier to read.
